@@ -1,6 +1,5 @@
 # Matrix Part Address
-
-```CSS
+```
 Enter size of matrix: 9
 Original matrix:
  .  .  .  .  .  .  .  .  .
@@ -199,5 +198,4 @@ Lines horisontal:
  #  #  #  #  #  #  #  #  #
  .  .  .  .  .  .  .  .  .
  #  #  #  #  #  #  #  #  #
-
 ```
